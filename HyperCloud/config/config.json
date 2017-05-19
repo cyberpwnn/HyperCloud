@@ -1,0 +1,8 @@
+{
+  "bungeecord.args": "-Xmx1g -Xms1g -XX:+UseG1GC",
+  "bungeecord.port": 25565,
+  "instances.max-instances": 4,
+  "bungeecord.enabled": true,
+  "bungeecord.download": "https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar",
+  "instances.starting-port": 35565
+}

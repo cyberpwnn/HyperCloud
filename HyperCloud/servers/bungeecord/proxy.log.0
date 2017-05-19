@@ -1,0 +1,63 @@
+16:03:38 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:03:38 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:03:38 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.11-SNAPSHOT:53cc324:1228
+16:03:38 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:03:38 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:03:38 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:03:38 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:03:38 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:03:38 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:03:38 [INFO] Attempting to update plugin from null to ModuleVersion(build=1228, git=53cc324)
+16:03:38 [INFO] Attempting to Jenkins download module cmd_alert v1228
+16:03:42 [INFO] Download complete
+16:03:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1228, git=53cc324)
+16:03:42 [INFO] Attempting to Jenkins download module cmd_find v1228
+16:03:42 [INFO] Download complete
+16:03:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1228, git=53cc324)
+16:03:42 [INFO] Attempting to Jenkins download module cmd_list v1228
+16:03:42 [INFO] Download complete
+16:03:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1228, git=53cc324)
+16:03:42 [INFO] Attempting to Jenkins download module cmd_send v1228
+16:03:42 [INFO] Download complete
+16:03:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1228, git=53cc324)
+16:03:42 [INFO] Attempting to Jenkins download module cmd_server v1228
+16:03:42 [INFO] Download complete
+16:03:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1228, git=53cc324)
+16:03:42 [INFO] Attempting to Jenkins download module reconnect_yaml v1228
+16:03:42 [INFO] Download complete
+16:03:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [WARNING] Forced host server pvp is not defined
+16:03:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Enabled plugin cmd_server version git:cmd_server:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Enabled plugin cmd_send version git:cmd_send:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:43 [INFO] Enabled plugin cmd_list version git:cmd_list:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+16:03:50 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+16:03:50 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.11-SNAPSHOT:53cc324:1228
+16:03:50 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:03:50 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:03:50 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:03:50 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:03:50 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:03:50 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:03:50 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Loaded plugin cmd_find version git:cmd_find:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Loaded plugin cmd_server version git:cmd_server:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Loaded plugin cmd_send version git:cmd_send:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Loaded plugin cmd_list version git:cmd_list:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [WARNING] Forced host server pvp is not defined
+16:03:50 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Enabled plugin cmd_find version git:cmd_find:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Enabled plugin cmd_server version git:cmd_server:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Enabled plugin cmd_send version git:cmd_send:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:50 [INFO] Enabled plugin cmd_list version git:cmd_list:1.11-SNAPSHOT:53cc324:1228 by SpigotMC
+16:03:59 [INFO] Listening on /0.0.0.0:25565

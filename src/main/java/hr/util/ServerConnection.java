@@ -20,12 +20,17 @@ public class ServerConnection extends Thread
 	private OutputStream os;
 	private GList<String> args;
 	
+	public ServerConnection(File jar, File wd, String mem, String custom)
+	{
+		this(jar, wd, new GList<String>().qadd(mem.split(" ")), new GList<String>().qadd(custom.split(" ")));
+	}
+	
 	public ServerConnection(File jar, File wd, List<String> mem, List<String> custom)
 	{
 		this.jar = jar;
 		this.wd = wd;
 		
-		args = new GList<String>().qadd("java").qadd(mem).qadd(custom).qadd("-jar").qadd(jar.getName());
+		args = new GList<String>().qadd("java").qadd(new GList<String>(mem)).qadd(new GList<String>(custom)).qadd("-jar").qadd(jar.getName());
 		builder = new ProcessBuilder(args);
 		builder.directory(wd);
 		os = new ByteArrayOutputStream();
@@ -38,7 +43,7 @@ public class ServerConnection extends Thread
 		
 		catch(IOException e)
 		{
-			e.printStackTrace();
+			L.l("No EULA to agree to.");
 		}
 		
 	}
